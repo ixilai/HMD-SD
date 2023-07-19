@@ -1,4 +1,4 @@
-# HMD-SD
+# Multi-Focus Image Fusion Based on Hessian Matrix  Decomposition and Salient Difference Focus Detection
 This package contains the matlab code which is associated with the following paper:
 
 Xilai Li, Xiaopan Wang, Xiaoqi Cheng, Haishu Tan, Xiaosong Li. Multi-Focus Image Fusion Based on Hessian Matrix  Decomposition and Salient Difference Focus Detection[J]. entropy.
